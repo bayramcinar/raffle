@@ -58,18 +58,7 @@ function Navbar() {
                             Top Joined 
                     </Link>
                     </li>
-                    <li className="nav-item cursor-pointer mr-3">
-                    <Link
-                            className='nav-link cursor-pointer text-xl text-white relative'
-                            activeClass="active"
-                            to="allRaffles"
-                            spy={true}
-                            smooth={true}
-                            duration={100}
-                        >
-                            All Raffles
-                    </Link>
-                    </li>
+                                    </li>
                     <li className="nav-item cursor-pointer mr-3">
                     <Link
                             className='nav-link cursor-pointer text-xl text-white relative'
@@ -82,6 +71,17 @@ function Navbar() {
                             Raffle Table
                     </Link>
                     </li>
+                    <li className="nav-item cursor-pointer mr-3">
+                    <Link
+                            className='nav-link cursor-pointer text-xl text-white relative'
+                            activeClass="active"
+                            to="allRaffles"
+                            spy={true}
+                            smooth={true}
+                            duration={100}
+                        >
+                            All Raffles
+                    </Link>
                 </ul>
             </div>
             <div className="navbar-nav">
