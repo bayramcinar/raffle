@@ -12,13 +12,9 @@ function App() {
     <>
       <Navbar/>
       <SliderRaffle/>
-      <AllRaffles/>
-<<<<<<< HEAD
-      
-=======
       <TableRaffle/>
+      <AllRaffles/>
       <Footer/>
->>>>>>> ebc3eee6a99d10839663c5f05a51c98212c114cd
     </>
   );
 }
