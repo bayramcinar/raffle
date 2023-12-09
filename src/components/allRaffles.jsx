@@ -4,7 +4,7 @@ import image from '../images/image.png';
 import image1 from '../images/image1.png';
 import image2 from '../images/image2.png';
 import x from '../images/XLogo.png';
-import wallet from "../images/Wallet.png"
+import wallet from "../images/wallet.png"
 import account from "../images/Accountt.png"
 
 function AllRaffles() {

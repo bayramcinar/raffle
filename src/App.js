@@ -12,8 +12,13 @@ function App() {
     <>
       <Navbar/>
       <SliderRaffle/>
+<<<<<<< HEAD
       <TableRaffle/>
       <AllRaffles/>
+=======
+       <TableRaffle/>
+    <AllRaffles/>
+>>>>>>> 77e2ac482efcf4501ed4ebe39eb4c72a30e4864c
       <Footer/>
     </>
   );
