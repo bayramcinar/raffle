@@ -81,11 +81,7 @@ function Navbar() {
                         >
                             All Raffles
                     </Link>
-<<<<<<< HEAD
                     </li>
-=======
-                      </li>
->>>>>>> 77e2ac482efcf4501ed4ebe39eb4c72a30e4864c
                 </ul>
             </div>
             <div className="navbar-nav">
