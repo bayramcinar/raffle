@@ -18,7 +18,7 @@ module.exports = {
         yellowOne:"#f8d699",
         pinkOne:"#4e5b98",
         cardText2 :"#fff",
-        tableItemBg:"#4e5b9896",
+        tableItemBg:"#344596a1",
       }
     },
   },
